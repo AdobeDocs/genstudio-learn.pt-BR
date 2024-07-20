@@ -12,7 +12,7 @@ jira: KT-14154
 source-git-commit: 3ded5e478ae37a582bd570fa0b6bf89a81d7580d
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
@@ -68,7 +68,7 @@ As soluções de Adobe usadas para planejamento e fluxo de trabalho:
         </a>
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" target="_blank">
-        <strong>Configuração do AEM Assets para administradores</strong></a>
+        <strong>Configurando o AEM Assets para Administradores</strong></a>
         <p class="is-size-7 recs-limit-description">Saiba como estabelecer uma base sólida para sua implementação do AEM Assets configurando as principais preocupações, desde a configuração de uma arquitetura de conteúdo básico e taxonomia até a personalização de metadados e processamento de ativos.</p>
         </div>
         <p><a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span></a></p>
@@ -103,15 +103,15 @@ As soluções de Adobe usadas para planejamento e fluxo de trabalho:
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Usar plug-ins do Adobe Workfront para integrar com o Creative Cloud" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3415452?format=jpeg" alt="Usar plug-ins do Adobe Workfront para integrar com o Creative Cloud">
+        <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Use plug-ins do Adobe Workfront para a integração com a Creative Cloud" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3415452?format=jpeg" alt="Use plug-ins do Adobe Workfront para a integração com a Creative Cloud">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Usar plug-ins do Adobe Workfront para integrar com o Creative Cloud">Usar plug-ins do Adobe Workfront para integrar com o Creative Cloud</a>
+              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Use plug-ins do Adobe Workfront para a integração com a Creative Cloud">Usar plug-ins do Adobe Workfront para integrar com o Creative Cloud</a>
           </p>
           <p class="is-size-6"><em>Integre o Workfront com o Creative Cloud para encontrar e atualizar o trabalho atribuído a você sem sair da Adobe Creative Cloud.</em></p>
       </div>
@@ -153,7 +153,7 @@ As soluções de Adobe usadas para planejamento e fluxo de trabalho:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" title="Noções básicas do conector aprimorado do Workfront">Noções básicas do conector aprimorado do Workfront</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" title="Noções básicas do conector aprimorado do Workfront">noções básicas do conector aprimorado do Workfront</a>
           </p>
           <p class="is-size-6"><em>Saiba mais sobre as noções básicas do conector aprimorado do Adobe Workfront e Experience Manager Assets.</em></p>
       </div>
@@ -174,7 +174,7 @@ As soluções de Adobe usadas para planejamento e fluxo de trabalho:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" title="Integrar o Workfront e o AEM Assets ao conector aprimorado">Integrar o Workfront e o AEM Assets ao conector aprimorado</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" title="Integrar o Workfront e o AEM Assets ao conector aprimorado">Integre o Workfront e o AEM Assets ao conector aprimorado</a>
           </p>
           <p class="is-size-6"><em>Série de vídeos de quatro partes sobre a integração do Workfront e do AEM Assets usando o conector aprimorado.</em></p>
       </div>
@@ -261,7 +261,7 @@ As soluções de Adobe usadas para planejamento e fluxo de trabalho:
 
 ## Recursos adicionais
 
-* [Eventos Experience League](https://experienceleague.adobe.com/events/)
+* [Experience League Eventos](https://experienceleague.adobe.com/events/)
 * [Adobe [!DNL GenStudio] em business.adobe.com](https://business.adobe.com/solutions/adobe-genstudio.html)
 * [Adobe [!DNL GenStudio] guia de recursos](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
 * [Adobe na cadeia de fornecimento de conteúdo](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
