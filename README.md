@@ -1,5 +1,5 @@
 ---
-source-git-commit: 25434d58a4b416d5792d3065a87117caa4ab8c97
+source-git-commit: cbd8d15f33c5dc7b6099fac62b0d77b3a645093c
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 36%
@@ -7,7 +7,7 @@ ht-degree: 36%
 ---
 # Contribuir com artigo
 
-**OBSERVAÇÃO:** este repositório está arquivado!
+**OBSERVAÇÃO:** este repositório está arquivado.
 
 Agradecemos as contribuições de nossa comunidade, bem como de funcionários da Adobe de fora das equipes de documentação.
 
